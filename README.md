@@ -30,8 +30,8 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/duckduckgo-search.git
-   cd duckduckgo-search
+   git clone https://github.com/eshorr/duckduckgo-query.git
+   cd duckduckgo-query
    ```
 
 2. **Install Dependencies**:
